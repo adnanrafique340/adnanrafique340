@@ -106,7 +106,7 @@ I am passionate about AI-driven systems, high-performance backend architectures,
 ## 🎓 Education
 
 ### **Master of Engineering in Artificial Intelligence (Ongoing)**  
-Vilnius Gediminas Technical University — Lithuania  
+Vilnius Gediminas Technical University Vilnius — Lithuania  
 
 ### **Bachelor of Computer Science**  
 Federal Urdu University — Pakistan  
@@ -130,16 +130,25 @@ https://conveyorollers.com
 https://moovmynt.com  
 
 ### **PuntaCanaVilla – Real Estate CRM**  
-https://puntacanavilla.com  
+https://puntacanavilla.com
+https://agents.puntacanavilla.com
 
 ### **ChamaSpace – E-Banking Platform**  
 https://chamaspace.com  
+
+### **Pak Wheel – Online marketplace for automobile**  
+https://www.pakwheels.com
+
+
+
 
 ---
 
 ## 📬 Contact  
 If you’d like to collaborate, discuss backend development, AI/ML, or hire me for a role, feel free to reach out:  
 📧 **adnanrafique340@gmail.com**
+📧 **adnan.rafique@stud.vilniustech.lt**
+
 
 ---
 
