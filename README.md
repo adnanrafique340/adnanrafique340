@@ -2,7 +2,7 @@
 ### Python / Django Developer | Full-Stack Engineer | AI & ML Engineer 
 Vilnius, Lithuania  
 
-📧 **Email:** adnanrafique340@gmail.com  
+📧 **Email:** adnanrafique340@gmail.com, adnan.rafique@stud.vilniustech.lt  
 🔗 **LinkedIn:** https://linkedin.com/in/adnan-rafique340  
 🐙 **GitHub:** https://github.com/adnanrafique340  
 🌍 **Portfolio:** https://fiverr.com/adnanrafique_se  
