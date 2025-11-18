@@ -1,5 +1,5 @@
 # 👨‍💻 Adnan Rafique  
-### Senior Python / Django Developer | Full-Stack Engineer | AI & ML Student  
+### Python / Django Developer | Full-Stack Engineer | AI & ML Engineer 
 Vilnius, Lithuania  
 
 📧 **Email:** adnanrafique340@gmail.com  
