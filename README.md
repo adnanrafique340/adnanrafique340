@@ -60,7 +60,7 @@ I am passionate about AI-driven systems, high-performance backend architectures,
 
 ## 💼 Work Experience
 
-### **🔹 Sr. Python Developer — UAB AMB Oils (Vilnius, Lithuania)**  
+### **🔹 Python Developer — UAB AMB Oils (Vilnius, Lithuania)**  
 *2024 — Present*  
 - Built ERP & e-commerce modules integrated with warehouse + accounting  
 - Real-time dashboards using Django Channels & WebSockets  
@@ -121,6 +121,7 @@ Federal Urdu University — Pakistan
 
 ### **UAB AMB Oils – ERP + E-Commerce System**  
 https://amboils.eu  
+https://entechoil.lt
 
 ### **Conveyor Rollers Custom Builder**  
 https://conveyorollers.com  
