@@ -13,11 +13,17 @@ Vilnius, Lithuania
 I am a Mid-level Backend & Full-Stack Developer with 4+ years of hands-on experience building scalable web applications, REST APIs, CRM systems, e-commerce platforms, and real-time systems using **Python, Django, DRF, FASTAPI, React**, and cloud-native technologies.
 
 I am currently pursuing a **Master of Engineering in Artificial Intelligence**, studying:  
-- Neural Networks  
-- Fundamentals of AI  
-- Machine Learning  
-- Research Methodology  
-- AI Systems & Applications  
+• Fundamentals of Artificial Intelligence
+• Neural Networks
+• System Engineering of Artificial Intelligence Solutions
+• Computer Vision
+• Natural Language Processing
+• Speech Processing
+• Reinforcement learning
+• Cloud Computing and Big Data
+• User Experience in Artificial Intelligence Solutions
+• Federated Learning and IoT
+• Fundamentals of Research and Innovation 
 
 I am passionate about AI-driven systems, high-performance backend architectures, clean code, and building reliable software at scale.
 
