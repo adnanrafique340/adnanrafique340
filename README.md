@@ -1,5 +1,5 @@
 # 👨‍💻 Adnan Rafique  
-### Python / Django Developer | Full-Stack Engineer | AI & ML Engineer 
+### Backend Software Engineer | Python, Django, FastAPI | Full-Stack Developer
 Vilnius, Lithuania  
 
 📧 **Email:** adnanrafique340@gmail.com, adnan.rafique@stud.vilniustech.lt  
@@ -7,60 +7,33 @@ Vilnius, Lithuania
 🐙 **GitHub:** https://github.com/adnanrafique340  
 🌍 **Portfolio:** https://fiverr.com/adnanrafique_se  
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adnanrafique340&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanrafique340&layout=compact)
+
 ---
 
 ## 🧑‍💼 About Me  
-I am a Mid-level Backend & Full-Stack Developer with 4+ years of hands-on experience building scalable web applications, REST APIs, CRM systems, e-commerce platforms, and real-time systems using **Python, Django, DRF, FASTAPI, React**, and cloud-native technologies.
+I am a Backend Software Engineer with 4+ years of experience building scalable web applications, REST APIs, CRM systems, e-commerce platforms, and real-time applications using Python, Django, Django REST Framework (DRF), FastAPI, React.js, and modern cloud technologies.
 
-I am currently pursuing a **Master of Engineering in Artificial Intelligence**, studying:  
-• Fundamentals of Artificial Intelligence
-• Neural Networks
-• System Engineering of Artificial Intelligence Solutions
-• Computer Vision
-• Natural Language Processing
-• Speech Processing
-• Reinforcement learning
-• Cloud Computing and Big Data
-• User Experience in Artificial Intelligence Solutions
-• Federated Learning and IoT
-• Fundamentals of Research and Innovation 
+Throughout my career, I have worked on designing and developing high-performance backend systems, optimizing databases, implementing asynchronous processing, integrating third-party services, and building scalable architectures for startups and growing businesses. I am passionate about AI-driven solutions, distributed systems, clean code, performance optimization, and building reliable software at scale.
 
-I am passionate about AI-driven systems, high-performance backend architectures, clean code, and building reliable software at scale.
+Also, currently pursuing a Master of Engineering in Artificial Intelligence at Vilnius Tech.
 
 ---
 
 ## 🛠 Skills & Technologies  
 
-### **Backend / Frameworks**
-- Python, Django, Django REST Framework  
-- FastAPI, Flask  
-- Celery, Redis, RabbitMQ  
-- WebSockets, Django Channels  
-- Async Programming, Multiprocessing, Multithreading  
-
-### **Frontend**
-- React.js, JavaScript  
-- HTML5, CSS3, Bootstrap  
-
-### **Databases**
-- PostgreSQL, MySQL, SQLite  
-- Query Optimization, RDBMS Design  
-
-### **Cloud & DevOps**
-- AWS (EC2, S3), Azure, DigitalOcean  
-- Docker, CI/CD Pipelines  
-
-### **AI & Machine Learning**
-- Neural Networks (Feedforward, CNN, RNN basics)  
-- ML Algorithms:  
-  - **Classification:** Logistic Regression, SVM, Decision Trees, Random Forest  
-  - **Regression:** Linear Regression, Ridge/Lasso, SVR  
-  - **Clustering:** K-Means, DBSCAN, Hierarchical  
-- Pandas, NumPy  
-
-### **Other**
-- Stripe, PayPal, Fastspring, Binance Integrations  
-- Git, GitHub, Jira, Asana  
+- **Backend Development:** Python, Django, Django REST Framework (DRF), FastAPI, Django Channels, Django Celery, Django Cron Jobs
+- **Databases & Caching:** PostgreSQL, MySQL, SQLite, Redis, RabbitMQ, SQL, Query Optimization, RDBMS Design
+- **Real-Time & Async Systems:** WebSockets, Asynchronous Programming, Multithreading, Multiprocessing, Real-Time Applications
+- **Cloud & DevOps:** AWS (Lambda, ECS, EKS, S3, API Gateway), EC2, Azure, Docker, Kubernetes, Jenkins, CI/CD, Heroku, DigitalOcean
+- **Frontend Technologies:** React.js, JavaScript, HTML5, CSS3, Bootstrap
+- **Integrations & APIs:** REST APIs, Webhooks, Third-Party API Integrations, Stripe, PayPal, FastSpring, Binance, OAuth, JWT Authentication, SSO
+- **Software Engineering:** Git, GitHub, GitLab, Unit Testing, Microservices Architecture, Caching Strategies, Project Management (JIRA, Asana)
+- **Data Science & AI:** Pandas, NumPy, Machine Learning Concepts, Neural Networks (CNN, RNN, Feedforward Networks), Random Forest, SVM, SVR
 
 ---
 
