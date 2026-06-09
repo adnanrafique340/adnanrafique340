@@ -8,15 +8,10 @@ Vilnius, Lithuania
 🐙 **GitHub:** https://github.com/adnanrafique340  
 🌍 **Portfolio:** https://fiverr.com/adnanrafique_se  
 
-## 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adnanrafique340&show_icons=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanrafique340&layout=compact" />
 
 ---
 
-## 🧑‍💼 About Me  
+## About Me  
 I am a Backend Software Engineer with 4+ years of experience building scalable web applications, REST APIs, CRM systems, e-commerce platforms, and real-time applications using Python, Django, Django REST Framework (DRF), FastAPI, React.js, and modern cloud technologies.
 
 Throughout my career, I have worked on designing and developing high-performance backend systems, optimizing databases, implementing asynchronous processing, integrating third-party services, and building scalable architectures for startups and growing businesses. I am passionate about AI-driven solutions, distributed systems, clean code, performance optimization, and building reliable software at scale.
