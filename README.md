@@ -1,4 +1,5 @@
 # 👨‍💻 Adnan Rafique  
+
 ### Backend Software Engineer | Python, Django, FastAPI | Full-Stack Developer
 Vilnius, Lithuania  
 
@@ -9,9 +10,9 @@ Vilnius, Lithuania
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adnanrafique340&show_icons=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adnanrafique340&show_icons=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanrafique340&layout=compact)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanrafique340&layout=compact" />
 
 ---
 
